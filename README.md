@@ -10,3 +10,7 @@ Check out the app used to record the gestures [here](https://github.com/AyishaR/
 
 This app returns a text file containing n lines, each with 601 values (sensors + gesture name). These values were then consolidated using the csv library.
 
+---
+
+Medium article - [here](https://medium.com/ai-techsystems/gesture-recognition-using-tinyml-devices-home-automation-applications-c62f3cdb0b24)
+
