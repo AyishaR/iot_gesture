@@ -10,13 +10,24 @@ Check out the app used to record the gestures [here](https://github.com/AyishaR/
 
 This app returns a text file containing n lines, each with 601 values (sensors + gesture name). These values were then consolidated using the csv library.
 
+## Home automation
+
+Extended the model to be implemented in home automation.
+
+Functionalities include - 
+* selecting appliances
+* switching between instances of the appliance
+* controlling operations that apply.
+
+Logic for the same is part of the notebook.
+
 ---
 
 Medium article - [here](https://medium.com/ai-techsystems/gesture-recognition-using-tinyml-devices-home-automation-applications-c62f3cdb0b24)
 
 Youtube video - [here](https://www.youtube.com/watch?v=N3lVgeyfDr0&ab_channel=AITSScholar)
 
-Project paper = [here](https://drive.google.com/file/d/1zFxPGWUbPTVI-ixr22xDx_d13biGnL2L/view)
+Project paper - [here](https://drive.google.com/file/d/1zFxPGWUbPTVI-ixr22xDx_d13biGnL2L/view)
 
 ---
 
