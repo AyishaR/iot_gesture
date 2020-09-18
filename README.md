@@ -13,4 +13,5 @@ This app returns a text file containing n lines, each with 601 values (sensors +
 ---
 
 Medium article - [here](https://medium.com/ai-techsystems/gesture-recognition-using-tinyml-devices-home-automation-applications-c62f3cdb0b24)
-
+Youtube video - [here](https://www.youtube.com/watch?v=N3lVgeyfDr0&ab_channel=AITSScholar)
+Project paper = [here](https://drive.google.com/file/d/1zFxPGWUbPTVI-ixr22xDx_d13biGnL2L/view)
